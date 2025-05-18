@@ -1,4 +1,4 @@
 # Lab 6 - Starter
 ### Bryan Canonizado worked on this repo solo
-[https://github.com/bryab-edu/Lab6_Starter]
+[https://bryab-edu.github.io/Lab6_Starter/]
 
